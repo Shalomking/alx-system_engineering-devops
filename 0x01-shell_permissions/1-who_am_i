@@ -1,1 +1,2 @@
-#!/bin/bash quote wc -l
+#!/bin/bash
+id -u -n
